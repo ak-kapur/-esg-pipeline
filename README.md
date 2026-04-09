@@ -45,3 +45,6 @@ Get a free Groq API key at [console.groq.com](https://console.groq.com).
 └── config.py           # Configuration
 ```
 
+## System Architecture
+
+![ESG Pipeline Architecture](docs/architecture.png)
