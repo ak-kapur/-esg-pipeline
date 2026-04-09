@@ -1,0 +1,17 @@
+# Environment & Secrets
+.env
+.streamlit/secrets.toml
+
+# Vector Store
+faiss_index/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Uploaded PDFs
+sample_reports/*.pdf
+!sample_reports/.gitkeep
+
+# IDE
+.vscode/
