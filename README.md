@@ -47,4 +47,4 @@ Get a free Groq API key at [console.groq.com](https://console.groq.com).
 
 ## System Architecture Diagram
 
-![ESG Pipeline Architecture](docs/System_architecture.png)
+![ESG Pipeline Architecture](docs/System_architecture_diagram.png)
